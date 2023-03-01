@@ -85,7 +85,7 @@ body {
 }
 .gnb> li> a{
     display: block;
-    padding: 13px 50px 22px;
+    padding: 13px 0 22px;
     font-family: 'NanumSquareNeo-Variable';
     font-weight: 700;
 }
