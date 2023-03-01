@@ -130,13 +130,13 @@ body {
     left: 50%;
     margin-left: -600px;
     height: 711px;
-    width: 1320px;
+    width: 1200px;
     box-sizing: border-box;
 }
 /*section_L*/
 .section_left{
     float: left;
-    width: 500px;
+    width: 480px;
 
 }
 input{
@@ -163,7 +163,7 @@ label{
 .login_btu a{
     background-color: #294F75;
     display: inline-block;
-    padding: 23px 230px;
+    padding: 23px 220px;
     color: #fff;
     border-radius: 50px;
 }
@@ -173,7 +173,7 @@ label{
 
 }
 .social_login{
-    width: 500px;
+    width: 480px;
     margin: 80px 0 0 90px;
     display: inline-block;
 }
@@ -192,7 +192,7 @@ label{
 /*section_R*/
 .section_right{
     float: right;
-    width: 600px;
+    width: 480px;
 
 }
 .join h2{
