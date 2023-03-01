@@ -122,24 +122,22 @@ body {
     margin: 0 auto;
     width: 100%;
     height: 1049px;
-    background: url(../images/bg.jpg) no-repeat center;
+    background: url(../images/bg.png) no-repeat center;
 }
 .section{
     position: absolute;
-    top: 170px;
+    top: 271px;
     left: 50%;
-    margin-left: -963px;
-    width: 1920px;
+    margin-left: -600px;
     height: 711px;
-    background-color: #e7e7e6b6;
-
+    width: 1320px;
     box-sizing: border-box;
 }
 /*section_L*/
 .section_left{
     float: left;
     width: 500px;
-    padding: 100px 0 0 360px;
+
 }
 input{
     display: inline-block;
@@ -195,7 +193,7 @@ label{
 .section_right{
     float: right;
     width: 600px;
-    padding: 89px 252px 0 118px;
+
 }
 .join h2{
     font-size: 30px;
